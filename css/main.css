@@ -513,7 +513,9 @@ button {
 .box:hover .overlay {
 	transform: translatey(0);
 }
-
+.project-card a:hover .overlay {
+	transform: translatey(0);
+}
 .projects {
 	display: flex;
 	flex-wrap: wrap;
